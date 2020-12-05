@@ -17,4 +17,4 @@ Eigene Spiele ausführen:
 Um Spiele auszuführen, muss das Projekt erst im Menü „Meine Spiele“ in eine Python-Datei umgewandelt werden.
 Um diese aufzuführen, sucht man die Datei unter dem Ordner „projects“, die den Namen des Projekts trägt, und die Endung .py hat. Um diese Datei auszuführen, wird Python und das Modul pygame benötigt.
 
-Die Anwendung wird stetig weiter entwickelt, so soll in Zukunft die Ausführbarkeit von .py Dateien auf .exe Dateien erweitert werden, dass auch Nutzer ohne Python, einige Spiele ausführen können.“
+Die Anwendung wird stetig weiter entwickelt, so soll in Zukunft die Ausführbarkeit von .py Dateien auf .exe Dateien erweitert werden, dass auch Nutzer ohne Python, einige Spiele ausführen können.
