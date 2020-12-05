@@ -3,8 +3,8 @@ Mit Build.Your.Game kann man einfache Spiele selber erstellen, ohne um dafür co
 
 In diesem Dokument wird über folgendes informiert:
 
- - Eigene Spiele erstellen 
- - Eigene Spiele ausführen 
+-Eigene Spiele erstellen 
+-Eigene Spiele ausführen 
 
 Eigene Spiele erstellen:
 
